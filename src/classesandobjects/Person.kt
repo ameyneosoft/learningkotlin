@@ -11,7 +11,7 @@ fun main(){
     println(p1.canVote());
 
 }
-
+// Primary Constructor
 class Person( var name : String, var age :Int){
     fun canVote() : Boolean{
         return age >18

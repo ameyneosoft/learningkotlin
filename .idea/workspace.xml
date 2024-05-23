@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6690122f-7342-44b9-ac07-c0c4e9e9714f" name="Changes" comment="" />
+    <list default="true" id="6690122f-7342-44b9-ac07-c0c4e9e9714f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/constructors/Constructors.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructors/DefaultConstructors.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/getterandsetter/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/BasicPhone.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Phone.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/SmartPhone.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/inheritance.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/override/Override.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classesandobjects/Constructors.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructors/SecondaryConstrunctors.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classesandobjects/Person.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classesandobjects/Person.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,9 +47,15 @@
   "keyToString": {
     "Kotlin.ArraysKt.executor": "Run",
     "Kotlin.CarKt.executor": "Run",
+    "Kotlin.ConstructorsKt.executor": "Run",
+    "Kotlin.DefaultConstructorsKt.executor": "Run",
+    "Kotlin.InheritanceKt.executor": "Run",
     "Kotlin.MainKt (1).executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.OverrideKt.executor": "Run",
+    "Kotlin.PersonKt (1).executor": "Run",
     "Kotlin.PersonKt.executor": "Run",
+    "Kotlin.SecondaryconstrunctorsKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -45,37 +63,43 @@
     "onboarding.tips.debug.path": "C:/Users/DELL/IdeaProjects/learningKotlin/src/Main.kt"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.PersonKt">
-    <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.ArraysKt" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\IdeaProjects\learningKotlin\src\override" />
+      <recent name="C:\Users\DELL\IdeaProjects\learningKotlin\src\constructors" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.OverrideKt">
+    <configuration name="DefaultConstructorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructors.DefaultConstructorsKt" />
       <module name="learningKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classesandobjects.CarKt" />
+    <configuration name="InheritanceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.InheritanceKt" />
       <module name="learningKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functions.MainKt" />
+    <configuration name="OverrideKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="override.OverrideKt" />
       <module name="learningKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+    <configuration name="PersonKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="getterandsetter.PersonKt" />
       <module name="learningKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classesandobjects.PersonKt" />
+    <configuration name="SecondaryConstrunctorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructors.SecondaryConstrunctorsKt" />
       <module name="learningKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.PersonKt" />
-        <item itemvalue="Kotlin.MainKt (1)" />
-        <item itemvalue="Kotlin.CarKt" />
-        <item itemvalue="Kotlin.ArraysKt" />
-        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.OverrideKt" />
+        <item itemvalue="Kotlin.InheritanceKt" />
+        <item itemvalue="Kotlin.PersonKt (1)" />
+        <item itemvalue="Kotlin.DefaultConstructorsKt" />
+        <item itemvalue="Kotlin.SecondaryConstrunctorsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -102,6 +126,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -109,6 +144,11 @@
           <url>file://$PROJECT_DIR$/src/Main.kt</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/constructors/SecondaryConstrunctors.kt</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/classesandobjects/Car.kt</url>
@@ -118,6 +158,33 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/constructors/SecondaryConstrunctors.kt</url>
+          <line>2</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/getterandsetter/Person.kt</url>
+          <line>2</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/override/Override.kt</url>
+          <line>2</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
