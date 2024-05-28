@@ -5,17 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6690122f-7342-44b9-ac07-c0c4e9e9714f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/constructors/Constructors.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructors/DefaultConstructors.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/getterandsetter/Person.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/BasicPhone.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/Phone.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/SmartPhone.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/inheritance.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/override/Override.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractclassmethod/Shape.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/companion/Companion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataclasses/DataClasses.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumclasses/EnumClasses.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionhandling/ExceptionHandling.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intefaces/interfaces.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/List.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modifiers/Modifiers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nullsafety/NullSafety.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/AnonymousObjects.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/Objects.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/polymorphism.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typecasting/TypeCasting.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classesandobjects/Constructors.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructors/SecondaryConstrunctors.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classesandobjects/Person.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classesandobjects/Person.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,17 +48,29 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.AnonymousObjectsKt.executor": "Run",
     "Kotlin.ArraysKt.executor": "Run",
     "Kotlin.CarKt.executor": "Run",
+    "Kotlin.CompanionKt.executor": "Run",
     "Kotlin.ConstructorsKt.executor": "Run",
+    "Kotlin.DataClassesKt.executor": "Run",
     "Kotlin.DefaultConstructorsKt.executor": "Run",
+    "Kotlin.EnumClassesKt.executor": "Run",
+    "Kotlin.ExceptionHandlingKt.executor": "Run",
     "Kotlin.InheritanceKt.executor": "Run",
+    "Kotlin.InterfacesKt.executor": "Run",
+    "Kotlin.ListKt.executor": "Run",
     "Kotlin.MainKt (1).executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.ModifiersKt.executor": "Run",
+    "Kotlin.NullSafetyKt.executor": "Run",
+    "Kotlin.ObjectsKt.executor": "Run",
     "Kotlin.OverrideKt.executor": "Run",
     "Kotlin.PersonKt (1).executor": "Run",
     "Kotlin.PersonKt.executor": "Run",
+    "Kotlin.PolymorphismKt.executor": "Run",
     "Kotlin.SecondaryconstrunctorsKt.executor": "Run",
+    "Kotlin.TypeCastingKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -69,37 +84,37 @@
       <recent name="C:\Users\DELL\IdeaProjects\learningKotlin\src\constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.OverrideKt">
-    <configuration name="DefaultConstructorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructors.DefaultConstructorsKt" />
+  <component name="RunManager" selected="Kotlin.ListKt">
+    <configuration name="DataClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataclasses.DataClassesKt" />
       <module name="learningKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.InheritanceKt" />
+    <configuration name="EnumClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumclasses.EnumClassesKt" />
       <module name="learningKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverrideKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="override.OverrideKt" />
+    <configuration name="ExceptionHandlingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptionhandling.ExceptionHandlingKt" />
       <module name="learningKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="getterandsetter.PersonKt" />
+    <configuration name="ListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.ListKt" />
       <module name="learningKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondaryConstrunctorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructors.SecondaryConstrunctorsKt" />
+    <configuration name="NullSafetyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nullsafety.NullSafetyKt" />
       <module name="learningKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.OverrideKt" />
-        <item itemvalue="Kotlin.InheritanceKt" />
-        <item itemvalue="Kotlin.PersonKt (1)" />
-        <item itemvalue="Kotlin.DefaultConstructorsKt" />
-        <item itemvalue="Kotlin.SecondaryConstrunctorsKt" />
+        <item itemvalue="Kotlin.ListKt" />
+        <item itemvalue="Kotlin.ExceptionHandlingKt" />
+        <item itemvalue="Kotlin.NullSafetyKt" />
+        <item itemvalue="Kotlin.EnumClassesKt" />
+        <item itemvalue="Kotlin.DataClassesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +165,11 @@
           <line>4</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/nullsafety/NullSafety.kt</url>
+          <line>6</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/classesandobjects/Car.kt</url>
           <line>12</line>
@@ -185,6 +205,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/intefaces/interfaces.kt</url>
+          <line>14</line>
+          <properties method="dragObjects">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
